@@ -1,8 +1,3 @@
-# Link for Privous Video: https://www.youtube.com/watch?v=rtHcsPvE7Uw
-# write streamlit application which will remove background from image and replace it with another image
-# streamlit.io
-# pip install streamlit
-# pip install rembg
 
 # run application using command: streamlit run app.py
 
