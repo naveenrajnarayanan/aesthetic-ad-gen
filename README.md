@@ -19,7 +19,9 @@ This Streamlit application provides a simple interface to remove the background 
 
 ## How to Run
 Execute the following command in your terminal to run the application:
-
+    ```
+    streamlit run app.py
+    ```
 
 ## Usage
 1. Upon running the application, it provides an interface to upload images or specify image URLs.
